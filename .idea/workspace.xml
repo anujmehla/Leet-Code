@@ -1,24 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6add56d6-b830-491b-8542-9160f3f4db16" name="Changes" comment="" />
+    <list default="true" id="6add56d6-b830-491b-8542-9160f3f4db16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DuplicateCharactersInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode1071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode382.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode881.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JVM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode139.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode139.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode1431.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode1431.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode187.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode187.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode200.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode273.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode273.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode392.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode394.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode394.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode409.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode409.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode445.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode445.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode704.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode735.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode735.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode88.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode977.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode977.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidParanthesis.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2Jm8LpKreIgO5IaEd2lXXVSXOpp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Anuj Mehla/Documents/IdeaProjects/LeetCode&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.abcd">
+    <configuration name="LeetCode118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode118" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode119" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode6" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vijay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vijay" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="abcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abcd" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.abcd" />
+        <item itemvalue="Application.LeetCode119" />
+        <item itemvalue="Application.LeetCode118" />
+        <item itemvalue="Application.LeetCode6" />
+        <item itemvalue="Application.Vijay" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +167,59 @@
       <updated>1672671844368</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode11.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode382.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode881.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LeetCode16.java</url>
+          <line>9</line>
+          <properties class="LeetCode16" method="threeSumClosest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LeetCode1071.java</url>
+          <line>9</line>
+          <properties class="LeetCode1071" method="gcdOfString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

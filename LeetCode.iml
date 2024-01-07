@@ -7,5 +7,17 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="9abac5c2-2815-4f58-b308-c2efd6e2ce82" />
   </component>
 </module>

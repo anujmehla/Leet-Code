@@ -6,7 +6,7 @@ public class LeetCode1 {
         int target = 26;
         int[] b= twoSum(a,target);
         for (int i:b){
-            System.out.print(b);
+            System.out.print(i);
         }
     }
     public static int[] twoSum(int[] nums, int target){
